@@ -15,7 +15,7 @@ I'm **Aman Kaushik**, an enthusiastic **Machine Learning Engineer** dedicated to
 
 - **Languages:** Python, C++, SQL
 - **Frameworks & Libraries:** TensorFlow, Hugging Face Transformers, YOLOv8
-- **Data Analytics & Visualization:** Pandas, Matplotlib, Seaborn
+- **Data Analytics & Visualization:** MySQL, Pandas, Matplotlib, Seaborn
 - **Tools & Platforms:** Docker, Pinecone, Git, Streamlit
 
 ## 💡 Projects
