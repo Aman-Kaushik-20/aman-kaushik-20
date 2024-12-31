@@ -50,11 +50,20 @@ Here are some of my recent projects:
 - 👯 Open to collaborations on **AI/ML projects**, **data science challenges**, and innovative **hackathons**.
 - 💬 Feel free to ask me about **object detection**, **NLP solutions**, or any AI-related topics.
 
-## 📬 Reach Me
+<h2 align="center">📬 Reach Me</h2>
 
-- 🌐 [Portfolio Website](https://amankaushikxai.framer.website/)
-- 📧 [Email Me](mailto:amankaushik20112001@gmail)
-- 💼 [LinkedIn](https://linkedin.com/in/aman-kaushik-863248253/)
+<div align="center">
+  <a href="mailto:amankaushik20112001@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://linkedin.com/in/aman-kaushik-863248253/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://amankaushikxai.framer.website/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
 
 ## ⚡ Fun Facts
 
