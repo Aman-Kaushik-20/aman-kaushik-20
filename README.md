@@ -22,7 +22,7 @@ I'm **Aman Kaushik**, an enthusiastic **Machine Learning Engineer** dedicated to
 
 Here are some of my recent projects:
 
-- **MediMind AI RAG ChatBot for Medical Queries:** An AI-driven chatbot designed to provide accurate medical information by leveraging Retrieval-Augmented Generation (RAG) techniques , bulit using PInecone Vector DB, gpt 3.5 turbo llm. [GitHub Repository](https://github.com/yourusername/MediMind-AI-ChatBot)
+- **MediMind AI RAG ChatBot for Medical Queries:** An AI-driven chatbot designed to provide accurate medical information by leveraging Retrieval-Augmented Generation (RAG) techniques , bulit using PInecone Vector DB, gpt 3.5 turbo llm. [GitHub Repository](https://github.com/Aman-Kaushik-20/MedicalChatbot/blob/main/README.md)
 
 - **Liveness Detection Object Detection Computer Vision:** A computer vision project focused on detecting liveness to prevent 5+ types of spoofing attacks, utilizing advanced object detection YOLO model trained on 25k distinct set of images. [GitHub Repository](https://github.com/yourusername/Liveness-Detection-CV)
 
