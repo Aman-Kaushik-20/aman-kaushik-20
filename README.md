@@ -1,7 +1,5 @@
-# Hi there! 👋 Welcome to my GitHub Universe 🚀
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Aman Kaushik]!;+Welcome+to+my+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Kaushik!;+Welcome+to+my+GitHub+Universe🚀!" />
 </h1>
 
 
