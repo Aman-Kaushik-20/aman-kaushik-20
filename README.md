@@ -1,5 +1,10 @@
 # Hi there! 👋 Welcome to my GitHub Universe 🚀
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Aman Kaushik]!;+Welcome+to+my+profile!" />
+</h1>
+
+
 I'm **Aman Kaushik**, an enthusiastic **Machine Learning Engineer** dedicated to transforming data into actionable, AI-driven solutions. With over three years of hands-on experience, I've completed numerous projects and secured victories in hackathons, all while focusing on core areas like **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Large Language Models (LLMs)**.
 
 ## 👨‍💻 About Me
