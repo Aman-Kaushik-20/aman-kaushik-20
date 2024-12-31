@@ -27,6 +27,21 @@ Here are some of my recent projects:
 
 - **GuesstimateGuru:** An AI-powered bot for guesstimate interviews built using Claude 3.5 sonnet , and extensive prompt engineering. [Live Demo](https://guesstimateinterviewapp.streamlit.app/)
 
+🛠️ **Languages-Frameworks-Tools** 🛠️
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
+![Anthropic](https://img.shields.io/badge/Anthropic-FF6F61?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFC107?style=flat&logo=huggingface&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-99CCFF?style=flat&logoColor=black)
+
+
+
 ## 🤝 Let's Collaborate!
 
 - 👯 Open to collaborations on **AI/ML projects**, **data science challenges**, and innovative **hackathons**.
