@@ -72,7 +72,3 @@ Here are some of my recent projects:
 ### Let's innovate together! 🌟
 
 Feel free to explore my repositories, star the ones you find interesting, and reach out for any collaboration opportunities. Happy coding!
-
-### 🐍 Watch my contributions get eaten by a snake:
-![Snake animation](https://github.com/Aman-Kaushik-20/Aman-Kaushik-20/blob/output/github-contribution-grid-snake.svg)
-
