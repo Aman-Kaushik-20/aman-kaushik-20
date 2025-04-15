@@ -59,7 +59,7 @@ Here are some of my recent projects:
   <a href="https://linkedin.com/in/aman-kaushik-863248253/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://amankaushikxai.framer.website/" target="_blank" style="text-decoration: none;">
+  <a href="https://amankaushikxaiml.framer.website/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </div>
