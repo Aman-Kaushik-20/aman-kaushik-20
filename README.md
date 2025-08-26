@@ -67,7 +67,7 @@ Here are some of my recent projects:
 
 ## ⚡ Fun Facts
 
-- I'm always up for a tech discussion or a strategic game of chess.
+- I'm always up for a new tech project
 
 ### Let's innovate together! 🌟
 
