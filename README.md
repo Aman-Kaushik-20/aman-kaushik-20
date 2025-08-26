@@ -3,20 +3,16 @@
 </h1>
 
 
-I'm **Aman Kaushik**, an enthusiastic **Machine Learning Engineer** dedicated to transforming data into actionable, AI-driven solutions. With over three years of hands-on experience, I've completed numerous projects and secured victories in hackathons, all while focusing on core areas like **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Large Language Models (LLMs)**.
+I'm **Aman Kaushik**, an enthusiastic **AI & Machine Learning Engineer** dedicated to transforming data into actionable, AI-driven solutions. With over three years of hands-on experience, I've completed numerous projects and secured victories in hackathons, all while focusing on core areas like **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Generative AI **.
 
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech Final Year** from Delhi Technological University, India.
 - 🔭 Currently exploring advancements in **Generative AI** and **AI-Powered Micro SaaS** solutions.
-- 🌱 Continuously learning and implementing **YOLOv8**, **Hugging Face Transformers**, and **Pinecone** for scalable AI applications.
 
 ## 🌟 Skills & Tools
 
-- **Languages:** Python, C++, SQL
-- **Frameworks & Libraries:** TensorFlow, Hugging Face Transformers, YOLOv8
-- **Data Analytics & Visualization:** MySQL, Pandas, Matplotlib, Seaborn
-- **Tools & Platforms:** Docker, Pinecone, Git, Streamlit
+- **Languages:** Python, C++, SQL, Bash Scripting
 
 ## 💡 Projects
 
