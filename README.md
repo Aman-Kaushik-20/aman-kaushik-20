@@ -1,50 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Kaushik!;+Welcome+to+my+GitHub+Universe🚀!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Kaushik!;+Python+Backend+%26+AI+Engineer🚀" />
 </h1>
 
 
-I'm **Aman Kaushik**, an enthusiastic **AI & Machine Learning Engineer** dedicated to transforming data into actionable, AI-driven solutions. With over three years of hands-on experience, I've completed numerous projects and secured victories in hackathons, all while focusing on core areas like **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Generative AI **.
+I'm **Aman Kaushik**, a **Python Backend & AI Engineer** with 1+ year of production experience designing and shipping Generative AI systems, multi-agent workflows, and scalable backend architectures. I've delivered high-impact AI for government entities (Maharashtra), Fortune 500 MNCs (EXL), and leading EdTech platforms.
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech Final Year** from Delhi Technological University, India.
-- 🔭 Currently exploring advancements in **Generative AI** and **AI-Powered Micro SaaS** solutions.
+- 🎓 **B.Tech, Engineering** from Delhi Technological University (DTU), 2021–2025.
+- 🧠 Currently at **Qolaba AI** — building agentic multi-agent systems, Graph RAG pipelines on Neo4j, and multilingual NLP services in production.
+- 🔭 Deep into **Agentic AI**, **Graph RAG**, **LLM observability/evaluation**, and scalable async Python backends.
+- 🏆 3× hackathon winner (including AI-Powered Micro SaaS 2024).
 
 ## 🌟 Skills & Tools
 
-- **Languages:** Python, C++, SQL, Bash Scripting
+- **Languages:** Python (Advanced / Async), TypeScript, SQL, Bash
+- **Backend:** FastAPI, Dapr, Redis, Celery, SSE streaming
+- **AI / Orchestration:** LangChain, LangGraph, Agno (Agentic AI), Graph RAG (Neo4j), Vector DBs (pgvector, Pinecone)
+- **MLOps & Vision:** LangSmith, Opik, HuggingFace, YOLOv8
+- **Infra:** GCP, Docker, Git, Linux
 
 ## 💡 Projects
 
-Here are some of my recent projects:
+Current focus — production-grade AI systems:
 
-- **MediMind AI RAG ChatBot for Medical Queries:** An AI-driven chatbot designed to provide accurate medical information by leveraging Retrieval-Augmented Generation (RAG) techniques , bulit using PInecone Vector DB, gpt 3.5 turbo llm. [GitHub Repository](https://github.com/Aman-Kaushik-20/MedicalChatbot/blob/main/README.md)
+- **[Orbitix — Travel Agent Planner](https://github.com/Aman-Kaushik-20/Orbitix):** Multi-agent travel concierge on Agno coordinating 6 specialized agents (Amadeus, Perplexity, Google Maps, NewsAPI, TripAdvisor, ElevenLabs) under a Claude Sonnet team lead. Features SSE streaming, episodic memory via pgvector, and automated ElevenLabs audio-tour generation.
 
-- **Liveness Detection Object Detection Computer Vision:** A computer vision project focused on detecting liveness to prevent 5+ types of spoofing attacks, utilizing advanced object detection YOLO model trained on 25k distinct set of images. [GitHub Repository](https://github.com/Aman-Kaushik-20/Liveness_Detection/blob/main/README.md)
+- **[SupplyGraph AI](https://github.com/Aman-Kaushik-20/global-supply-chain):** Multi-agent global supply chain analysis using Neo4j GraphRAG — combines 4+ retrieval strategies (vector, hybrid, vector+cypher, hybrid+cypher) with Voyage-3 embeddings, BM25, and custom re-ranking. Fully async with sub-1.5s TTFT.
 
-- **PosePower Gym:** An AI-powered application that uses pose estimation to optimize gym movements and enhance joint performance. [Live Demo](https://poseestimationaigym-hkw8idsfb7jf7bnmyefakr.streamlit.app)
+- **GraphReason:** LLM reasoning combined with Neo4j for intelligent content classification — 92% accuracy vs. 78% for a traditional ML baseline.
 
-- **GuesstimateGuru:** An AI-powered bot for guesstimate interviews built using Claude 3.5 sonnet , and extensive prompt engineering. [Live Demo](https://guesstimateinterviewapp.streamlit.app/)
+- **[MediMind — Medical RAG ChatBot](https://github.com/Aman-Kaushik-20/MedicalChatbot):** RAG chatbot for medical queries, built on Pinecone + GPT-3.5-turbo with carefully tuned retrieval.
 
-🛠️ **Languages-Frameworks-Tools** 🛠️
+- **[Liveness Detection (CV):](https://github.com/Aman-Kaushik-20/Liveness_Detection)** YOLO-based liveness detector against 5+ spoofing attack types, trained on 25k distinct images.
+
+🛠️ **Languages · Frameworks · Tools** 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Anthropic-FF6F61?style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFC107?style=flat&logo=huggingface&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-99CCFF?style=flat&logoColor=black)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC107?style=flat&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
 
 
 
 ## 🤝 Let's Collaborate!
 
-- 👯 Open to collaborations on **AI/ML projects**, **data science challenges**, and innovative **hackathons**.
-- 💬 Feel free to ask me about **object detection**, **NLP solutions**, or any AI-related topics.
+- 👯 Open to collaborations on **Agentic AI**, **Graph RAG**, **LLM observability**, and production backend systems.
+- 💬 Happy to talk about multi-agent orchestration, async Python at scale, or moving GenAI PoCs into reliable production.
 
 <h2 align="center">📬 Reach Me</h2>
 
@@ -55,7 +67,7 @@ Here are some of my recent projects:
   <a href="https://linkedin.com/in/aman-kaushik-863248253/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://amankaushikxaiml.framer.website/" target="_blank" style="text-decoration: none;">
+  <a href="https://portfolio-aman-coral.vercel.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </div>
@@ -63,7 +75,8 @@ Here are some of my recent projects:
 
 ## ⚡ Fun Facts
 
-- I'm always up for a new tech project
+- Always in beta, never in doubt.
+- I ship GenAI from 127.0.0.1 to the world.
 
 ### Let's innovate together! 🌟
 
